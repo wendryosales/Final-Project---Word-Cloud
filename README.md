@@ -1,7 +1,7 @@
 # Final-Project---Word-Cloud
 ##
 
-Este Projeto Realizado em Python foi feito para conclusão do curso: Crash course on Python que faz parte do certificado profissional "Google IT Automation with Python Certificado profissional"
+Este Projeto Realizado em Python foi feito para conclusão do curso: Crash course on Python que faz parte do certificado profissional "Google IT Automation with Python Certificado profissional".
 
 ## Instituição: Coursera/Google
 
